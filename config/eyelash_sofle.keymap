@@ -85,8 +85,8 @@
         MacOS {
             bindings = <
 &trans        &trans  &trans        &trans        &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&kp LEFT_GUI  &trans  &trans        &trans        &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans        &trans  &trans        &trans        &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&kp LEFT_GUI  &trans  &trans        &trans        &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans        &trans  &trans        &trans        &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
 &trans        &mo 3   &kp LEFT_ALT  &kp LEFT_GUI  &trans  &trans    &trans  &trans  &trans  &trans  &to 0   &trans
             >;
